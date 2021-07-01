@@ -10,10 +10,16 @@
     "packages/*"
   ],
   "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "@commitlint/config-lerna-scopes": "^12.1.4",
     "@typescript-eslint/eslint-plugin": "^4.28.1",
     "@typescript-eslint/parser": "^4.28.1",
+    "commitlint": "^12.1.4",
     "eslint": "^7.29.0",
+    "husky": "^7.0.0",
     "lerna": "^4.0.0",
+    "lerna-changelog": "^1.0.1",
     "rimraf": "^3.0.2",
     "scripty": "^2.0.0"
   },
@@ -26,5 +32,9 @@
   },
   "scripty": {
     "path": "./scripts/workspace"
+  },
+  "volta": {
+    "node": "14.17.1",
+    "yarn": "1.22.10"
   }
 }
