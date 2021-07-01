@@ -16,7 +16,6 @@
     "path": "../../scripts/packages"
   },
   "dependencies": {
-    "@shlack/types": "^0.4.0",
     "date-fns": "^2.22.1",
     "react": "^17.0.2"
   },
