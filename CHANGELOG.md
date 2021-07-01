@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2021-07-01)
+
+
+### Features
+
+* **utils:** conventional commits and commitlint ([78bf603](https://github.com/mike-north/js-ts-monorepos/commit/78bf603e58f0c9b0e28766a185b173022717b7aa))
+
+
+
+
+
 # 0.1.0 (2021-07-01)
 
 
