@@ -4,6 +4,6 @@
     {"path":  "utils" },
     { "path":  "types" },
     { "path": "data" },
-    {"path": "ui" }
+    { "path": "ui" }
   ]
 }
