@@ -7,7 +7,6 @@
     "access": "public"
   },
   "scripts": {
-    "prepare": "husky install",
     "build": "scripty",
     "test": "scripty",
     "lint": "scripty",
